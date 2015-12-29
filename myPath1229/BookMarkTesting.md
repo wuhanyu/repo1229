@@ -38,3 +38,10 @@ The csc.exe executable file usually is located in the Microsoft.NET\Framework\Ve
 ### <a name="create-another-product"></a> Create another product
 
 testing...
+
+### <a name="testing-C#"></a> Testing C#
+
+```c#
+String name;
+```
+
