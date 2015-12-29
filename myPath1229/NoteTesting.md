@@ -1,10 +1,10 @@
 # testing Note
 
 > [!NOTE] 
-> note testing
+> This is Note
 
 > [!WARNING]
-> warning
+> This is Warning
 
 > [!TIP]
 > This is TIP
