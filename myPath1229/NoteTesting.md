@@ -1,12 +1,11 @@
 # testing Note
-> [!NOTE] Note
+
+> [!NOTE] 
+> note testing
 
 > [!WARNING]
+> warning
 
 
-<div class="alert alert-note">
-  <h5> alert-note </h5>
-  <p> sample </p>
-  
-  </div>
+
   
