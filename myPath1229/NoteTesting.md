@@ -1,3 +1,8 @@
 # testing Note
 
->[!NOTE] This is a note
+<div class="note">
+  <h5> alert-note </h5>
+  <p> sample </p>
+  
+  </div>
+  
