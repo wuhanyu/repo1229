@@ -2,7 +2,7 @@
 
 ## Test the BookMark
 [Create a product](#create-product)
-[Create another product](#create-product)
+[Create another product](#create-another-product)
 
 
 <a name="create-product"></a> Create a product
