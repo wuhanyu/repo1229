@@ -6,8 +6,6 @@
 [Create another product](#create-another-product)
 <p/>
 [Testing C#](#testing-C#)
-<a name="testing-C#"></a> Testing C#
-
 
 ## detailed info
 
