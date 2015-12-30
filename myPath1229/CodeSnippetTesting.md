@@ -24,7 +24,20 @@ Assert.IsTrue(result.Count > 0, "There should be at least one match.")Assert.IsT
  ```
  
  ```javascript-i
-Console.WriteLine("Java Script");
+function inchestometers(inches)
+   {
+   if (inches < 0)
+      return -1;
+   else
+      {
+      var meters = inches / 39.37;
+      return meters;
+      }
+   }
+
+var inches = 12;
+var meters = inchestometers(inches);
+document.write("the value in meters is " + meters);
  ```
 <!-- ENDSECTION --> 
 
