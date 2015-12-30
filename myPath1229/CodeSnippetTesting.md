@@ -1,5 +1,6 @@
 # Code Snippet Testing
 
+> [!div class="tabbedCodeSnippets"]
 >```cs-i
 String Name;
 ```
