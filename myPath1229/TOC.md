@@ -2,4 +2,4 @@
 
 # [Note Testing](NoteTesting.md)
 
-# [Code Snippet Testing](CodeSnippetTesting)
+# [Code Snippet Testing](CodeSnippetTesting.md)
