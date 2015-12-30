@@ -9,4 +9,10 @@ String Name;
 String Title;
 ```
 
+<!-- BEGINSECTION class="tabbedCodeSnippets" -->
+```cs-i
+Console.WriteLine()      
+ ```
+<!-- ENDSECTION --> 
+
 
