@@ -1,9 +1,9 @@
 # Code Snippet Testing
 
 > [!div class="tabbedCodeSnippets"]
->```cs-i
+> ```cs-i
 String Name;
 ```
->```javascript-i
+> ```javascript-i
 String Title
 ```
